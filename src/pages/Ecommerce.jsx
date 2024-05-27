@@ -36,12 +36,12 @@ const Ecommerce = () => {
             </button>
           </div>
           <div className="mt-6">
-            <Button
+            {/* <Button
               color="white"
               bgColor={currentColor}
               text="Download"
               borderRadius="10px"
-            />
+            /> */}
           </div>
         </div>
         <div className="flex m-3 flex-wrap justify-center gap-1 items-center">
